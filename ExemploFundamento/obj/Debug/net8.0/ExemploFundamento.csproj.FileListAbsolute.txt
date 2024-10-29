@@ -1,0 +1,14 @@
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/bin/Debug/net8.0/ExemploFundamento
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/bin/Debug/net8.0/ExemploFundamento.deps.json
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/bin/Debug/net8.0/ExemploFundamento.runtimeconfig.json
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/bin/Debug/net8.0/ExemploFundamento.dll
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/bin/Debug/net8.0/ExemploFundamento.pdb
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.AssemblyInfoInputs.cache
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.AssemblyInfo.cs
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.csproj.CoreCompileInputs.cache
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.dll
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/refint/ExemploFundamento.dll
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.pdb
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ExemploFundamento.genruntimeconfig.cache
+/home/lucas/RiderProjects/ExemploFundamento/ExemploFundamento/obj/Debug/net8.0/ref/ExemploFundamento.dll
